@@ -1,0 +1,47 @@
+
+.head{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+}
+a{
+    color: white;
+}
+ul,li{
+    display: inline;
+    
+}
+
+button{
+    background-color: black;
+    color: white;
+    margin-bottom: 10px;
+}
+.box{
+    text-align: center;
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+.food{
+    text-align: center;
+}
+img{
+    text-align: center;
+    height: 410px;
+    width: 340px;
+}
+img:hover{
+    height: 430px;
+    width: 350px;
+}
+.box{
+    border-color: rgb(92, 91, 91);
+    border-style: solid;
+    border-width: 1.5px;
+}
+.contact{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
